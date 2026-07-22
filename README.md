@@ -42,4 +42,4 @@ IPlayer/
 │
 ├── index.html
 └── README.md
-that gate one bit of under tab conditions with off the all system of 
+that gate one bit of under tab conditions with off the all system of it on the points
